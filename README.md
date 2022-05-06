@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alex Velasco
-- 👀 I’m interested in coding, pets, and video games.
-- 🌱 I’m currently majoring in computer science.
-- 📫 How to reach me: 23alexandervelasco@gmail.com
+- Hi, I’m Alex Velasco
+- Pronouns: He/Him/His
+- I’m interested in coding, pets, and video games.
+- I’m currently majoring in computer science.
+- How to reach me: 23alexandervelasco@gmail.com
